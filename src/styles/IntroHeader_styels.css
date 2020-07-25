@@ -1,0 +1,11 @@
+.navBar_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Image1{
+    width:100%;
+    height: auto;
+    border-radius: 100%;
+}

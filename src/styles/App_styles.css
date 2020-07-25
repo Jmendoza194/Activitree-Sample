@@ -1,0 +1,15 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    font-size: 18px;
+    font-family: Noto Sans JP,sans-serif;
+    color:#526173;
+    background-color: #fff;
+}
+
+.paddingUp{
+    padding: 1rem 0rem;
+}
